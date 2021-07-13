@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kKngbAEeq0XAA9Ve6V9rtFy5UnlxWI+jgwM0CoT49c2U9a2ir6Je6hK7EqJDSSXC73NC3EuGHUE6ivnqzIZlxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\97254\\OneDrive\\מסמכים\\GitHub\\securityStudy11\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\97254\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
